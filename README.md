@@ -9,3 +9,6 @@ This is a demonstration of how CSS combined with Javascript can give the appeare
 
 ## Challenges with this project
 Using the css property of `transform` with `translateY()`. This is resolved by using `:first-child` and `:last-child`.
+
+### Click the link below to see the page
+https://jonfromnyc.github.io/flex-panels/
